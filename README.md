@@ -33,6 +33,6 @@ Postman • VS Code
 ❤️ Let's get connected:
 
 🌐 Portfolio: https://abhiramyadav.vercel.app  
-💻 GitHub: https://github.com/RAM-2303A51086
+💻 GitHub: https://github.com/Abhiram0202
 ---
 
