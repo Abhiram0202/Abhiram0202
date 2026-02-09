@@ -1,10 +1,12 @@
-<h1 align="center">Hello</h1>
+<h1 align="center">
+  Hello&nbsp;
+  <img src="./hello.gif" width="32" alt="Hi" />
+  &nbsp;I'm Abhiram Yadav
+</h1>
 
 <p align="center">
-  <img src="./hello.gif" width="50" alt="Hi GIF" />
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
 </p>
-
-<h1 align="center">I'm Abhiram Yadav</h1>
 
 ---
 
@@ -23,21 +25,21 @@
 
 ## 🛠️ Technologies and Tools I use
 
-**Languages:**  
+**Languages**  
 Java • JavaScript • Python  
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
 React • Next.js • Node.js  
 
-**Styling:**  
+**Styling**  
 Tailwind CSS • HTML5 • CSS3  
 
-**Tools & Platforms:**  
+**Tools & Platforms**  
 Git • GitHub • AWS • Postman • VS Code  
 
 ---
 
 ## ❤️ Let's get connected
 
-- 🌐 Portfolio: [https://abhiramyadav.vercel.app](https://abhiramyadav.vercel.app)  
+- 🌐 Portfolio: [https://abhiramyadav.vercel.app](https://abhiramyadav.vercel.app)
 - 💻 GitHub: [https://github.com/Abhiram0202](https://github.com/Abhiram0202)
