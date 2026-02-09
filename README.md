@@ -4,7 +4,9 @@
   &nbsp;I'm Abhiram Yadav
 </h1>
 
-
+<p align="center">
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
+</p>
 
 ---
 
