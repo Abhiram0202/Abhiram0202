@@ -1,38 +1,43 @@
-Hello 👋 I'm Abhiram Yadav
+<h1 align="center">Hello</h1>
 
-👨🏻‍💻 About Me:
+<p align="center">
+  <img src="./hello.gif" width="50" alt="Hi GIF" />
+</p>
 
-🙋‍♂️ All about me is at: https://abhiramyadav.vercel.app  
-
-🔭 I’m currently improving my Data Structures & Algorithms skills  
-
-🌱 I’m currently learning Next.js, MERN Stack & System Design  
-
-👯 I’m looking to collaborate on real-world Dev Projects  
-
-🤔 I’m looking to improve my Competitive Programming  
-
-💬 Ask me about JavaScript, Next.js, and DSA  
-
-👨‍💻 Life Hack: Build projects 🚀 and stay consistent every day  
-
-⚡ Fun fact: I love solving problems and improving daily  
+<h1 align="center">I'm Abhiram Yadav</h1>
 
 ---
 
-🛠️ Technologies and Tools I use:
+## 👨🏻‍💻 About Me
 
+- 🙋‍♂️ All about me is at: [https://abhiramyadav.vercel.app](https://abhiramyadav.vercel.app)
+- 🔭 I’m currently improving my **Data Structures & Algorithms** skills
+- 🌱 I’m currently learning **Next.js, MERN Stack & System Design**
+- 👯 I’m looking to collaborate on **real-world Dev Projects**
+- 🤔 I’m looking to improve my **Competitive Programming**
+- 💬 Ask me about **JavaScript, Next.js, and DSA**
+- 👨‍💻 Life Hack: Build projects 🚀 and stay consistent every day
+- ⚡ Fun fact: I love solving problems and improving daily
+
+---
+
+## 🛠️ Technologies and Tools I use
+
+**Languages:**  
 Java • JavaScript • Python  
+
+**Frameworks & Libraries:**  
 React • Next.js • Node.js  
+
+**Styling:**  
 Tailwind CSS • HTML5 • CSS3  
-Git • GitHub • AWS  
-Postman • VS Code  
+
+**Tools & Platforms:**  
+Git • GitHub • AWS • Postman • VS Code  
 
 ---
 
-❤️ Let's get connected:
+## ❤️ Let's get connected
 
-🌐 Portfolio: https://abhiramyadav.vercel.app  
-💻 GitHub: https://github.com/Abhiram0202
----
-
+- 🌐 Portfolio: [https://abhiramyadav.vercel.app](https://abhiramyadav.vercel.app)  
+- 💻 GitHub: [https://github.com/Abhiram0202](https://github.com/Abhiram0202)
