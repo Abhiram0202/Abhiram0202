@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🙋‍♂️ All about me is at: [https://abhiramyadav.vercel.app](https://abhiramyadav.vercel.app)
+- 🙋‍♂️ All about me is at: [MY Website](https://abhiramyadav.vercel.app)
 - 🔭 I’m currently improving my **Data Structures & Algorithms** skills
 - 🌱 I’m currently learning **Next.js, MERN Stack & System Design**
 - 👯 I’m looking to collaborate on **real-world Dev Projects**
